@@ -1,0 +1,10 @@
+/iceuncle/HttpFrame
+/twitter-archive/elephant-twin
+/tzanou/PercentVisibleLayout
+/jmarranz/relproxy
+/DDT-IDE/DDT
+/Skykai521/RecyclerView-Animation-Demo
+/sonatype/nexus
+/OpenTSDB/async
+/pjklauser/protobuf-rpc-pro
+/Squarespace/jersey2-guice

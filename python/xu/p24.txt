@@ -1,0 +1,10 @@
+/sentilo/sentilo
+/metawidget/metawidget
+/vert-x/mod-rxvertx
+/gwizard/gwizard
+/slagyr/limelight
+/uaihebert/uaicontacts
+/chrisjenx/StaggeredGridView
+/googleads/aw-reporting
+/dnmilne/wikipediaminer
+/ImportEffort/SplashActivityDemo

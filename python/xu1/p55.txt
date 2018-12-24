@@ -1,0 +1,10 @@
+/melix/japicmp-gradle-plugin
+/ironsteel/blur-view-library
+/jungletian/plaidnonet
+/fernandezpablo85/scribe
+/sergey-miryanov/ExtensionsPack
+/gravel-st/gravel
+/danielshaya/ByteWatcher
+/skroutz/elasticsearch-analysis-turkishstemmer
+/vokal/VolleyBall
+/jprante/elasticsearch-gatherer

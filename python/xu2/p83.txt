@@ -1,0 +1,10 @@
+/steelkiwi/BadgeHolderView
+/grimpy/Botifier
+/wangjia55/ViewDragHelper
+/himanshu-soni/image-intent-handler
+/ameizi/NotifyQQ
+/polydawn/mdm
+/jexp/neo4j-clean-remote-db-addon
+/Betterment/DaggerStarter
+/cscotta/recordinality
+/casser/intellij-es67

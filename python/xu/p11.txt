@@ -1,0 +1,10 @@
+/square/auto-value-redacted
+/ihsanbal/Wiv
+/rschildmeijer/deft
+/OiteBoys/Earlybird
+/jenkinsci/docker-slaves-plugin
+/fr4nk1/retro-dagger-example
+/chenpengfei88/StatusLayout
+/bravekingzhang/mvp-demo
+/threerings/playn
+/StylingAndroid/Snowfall

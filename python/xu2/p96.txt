@@ -1,0 +1,10 @@
+/droidcon/iosched
+/pac4j/play-pac4j-java-demo
+/JetBrains/intellij-samples
+/trygvis/javax-usb-libusb1
+/rponte/jsf-loja-project
+/seam/solder
+/arquillian/arquillian-extension-drone
+/aido/AidoATP
+/depop/ClearableEditText
+/kontalk/tigase-server

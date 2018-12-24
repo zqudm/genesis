@@ -1,0 +1,10 @@
+/SonarSource/sonarlint-cli
+/sirensolutions/siren
+/rudsonlive/Navigation-Drawer-ViewPager-ActionBarCompat
+/6a209/PullRefreshLayout
+/iotashan/TiTouchImageView
+/palantir/stash-codesearch-plugin
+/puppetlabs/geppetto
+/trimou/trimou
+/thomsonreuters/RippleDecoratorView
+/kunny/blog_samples

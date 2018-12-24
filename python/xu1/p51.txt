@@ -1,0 +1,10 @@
+/nfscan/nfscan
+/maxyou/SimpleWaveform
+/bwaldvogel/mongo-java-server
+/palominolabs/metrics-guice
+/gilt/scala-1-day
+/twotoasters/watchface-template
+/abel533/mapper-boot-starter
+/ykabaran/NewsDigestSplash
+/momodae/RecyclerViewLibrary
+/twiceyuan/DropdownMenu

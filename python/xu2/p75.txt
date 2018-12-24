@@ -1,0 +1,10 @@
+/hraberg/Shen.java
+/tikivn/NoAdapter
+/kilburn/pdfunlock
+/images3/images3-play
+/gmwils/mahoutinaction
+/jaltekruse/OpenNotebook
+/Stratio/sonar-scala-plugin
+/simpleci/simpleci
+/creactiviti/spring-boot-starter-acme
+/anton-rudeshko/CSSReorder

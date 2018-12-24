@@ -1,0 +1,10 @@
+/iceuncle/HttpFrame
+/tzanou/PercentVisibleLayout
+/jmarranz/relproxy
+/DDT-IDE/DDT
+/macournoyer/min
+/leixiaohua1020/simplest_video_website
+/terrymanu/miracle-framework
+/sonatype/nexus
+/Squarespace/jersey2-guice
+/gengqiquan/HttpUtil

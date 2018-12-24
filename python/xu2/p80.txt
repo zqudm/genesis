@@ -1,0 +1,10 @@
+/logzio/jmx2graphite
+/bnalls33/MockMockLocations
+/dsyer/spring-boot-ratpack
+/syllant/idea-plugin-linessorter
+/JosephCottam/AbstractRendering
+/fusesource/hawtjournal
+/forax/proxy2
+/takahirom/WearHttp
+/jacobtabak/droidcon
+/TiBeN/ia-rcade

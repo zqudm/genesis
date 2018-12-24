@@ -1,0 +1,10 @@
+/wisdom-framework/wisdom
+/lintool/Ivory
+/thothbot/parallax
+/Kanatoko/MonjaDB
+/unchartedsoftware/aperture-tiles
+/jeeeyul/pde-tools
+/EricEdens/urllib
+/garysieling/solr-git
+/xresco/Hexagon-Recyclerview
+/gerritjvv/pjson

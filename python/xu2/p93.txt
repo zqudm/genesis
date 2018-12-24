@@ -1,0 +1,10 @@
+/tlrx/elasticsearch-view-plugin
+/heroku/heroku-jenkins-plugin
+/thomasdarimont/spring-boot-2-keycloak-oauth-example
+/tzaeschke/phtree
+/kyleduo/DashedLineDivider
+/medcl/elasticsearch-carrot2
+/meltwater/elasticsearch-batch-percolator
+/JamesIry/jADT
+/heroku/template-java-spring-hibernate
+/gwtbootstrap3/gwtbootstrap3-extras

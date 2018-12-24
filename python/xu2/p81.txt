@@ -1,0 +1,10 @@
+/ghbhaha/MyWeather
+/vmware-serengeti/serengeti-ws
+/ef-labs/vertx-elasticsearch-service
+/pif/glass-progress-bar
+/zhuguohui/VideoDemo
+/logzio/jmx2graphite
+/bnalls33/MockMockLocations
+/dsyer/spring-boot-ratpack
+/syllant/idea-plugin-linessorter
+/JosephCottam/AbstractRendering

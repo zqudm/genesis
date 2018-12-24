@@ -1,0 +1,10 @@
+/prolificinteractive/Chandelier
+/cypressious/AnimationListView
+/jexp/neo4j-shell-tools
+/jacobtabak/Fragment-Switcher
+/autonomousapps/Cappuccino
+/tbouron/ShakeDetector
+/movisens/SmartGattLib
+/xuyisheng/NaturalAnim
+/alexjlockwood/adp-applistloader
+/developer-shivam/ChanelView

@@ -1,0 +1,10 @@
+/chenpengfei88/WdjAppDetail
+/PaNaVTEC/Coordinator-java
+/beplaya/Wagon
+/nemccarthy/stash-pullrequest-builder-plugin
+/infinispan/infinispan-quickstart
+/RestComm/ussdgateway
+/geftimov/hadoop-map-reduce-patterns
+/dhale/jtk
+/tanelih/phonegap-bluetooth-plugin
+/dankurka/gwtphonegap

@@ -1,0 +1,10 @@
+/jfree/jfreechart-fse
+/yoojia/NextVersions
+/jclagache/spring-data-mybatis
+/mikepenz/AnimatedGridView
+/perwendel/spark-template-engines
+/willuhn/hbci4java
+/uber/tchannel-java
+/jprante/elasticsearch-index-termlist
+/clir/clearnlp
+/hanks-zyh/RxSerach

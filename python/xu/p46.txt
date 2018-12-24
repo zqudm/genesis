@@ -1,0 +1,10 @@
+/vaadin/addressbook
+/dpinto-pivotal/cf-SpringBootTrader
+/daveyliam/mapwriter
+/spring-projects/spring-data-rest-webmvc
+/xsank/Shour
+/mbreese/couchdb4j
+/panacena/mengqu
+/samwangds/minions
+/antoniolg/LimeApp
+/sonatype/sonatype-tycho

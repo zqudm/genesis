@@ -1,0 +1,10 @@
+/pkainulainen/spring-social-examples
+/yankai-victor/RingButton
+/intel-machine-learning/DistML
+/alphatica/genotick
+/JorgeCastilloPrz/Dagger2Scopes
+/mrmilu/WPEditText
+/spring-projects/grails-data-mapping
+/Rogero0o/MissView
+/liangpengfei/SearchView
+/skyscreamer/yoga

@@ -1,0 +1,10 @@
+/daveyliam/mapwriter
+/mbreese/couchdb4j
+/samwangds/minions
+/antoniolg/LimeApp
+/sonatype/sonatype-tycho
+/joelind/zxing-iphone
+/lsjwzh/MaskEverywhere
+/linux-china/plantuml-gist
+/eleventigers/rxeither
+/florinpatrascu/micro

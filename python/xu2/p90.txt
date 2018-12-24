@@ -1,0 +1,10 @@
+/googlearchive/appengine-angular-guestbook-java
+/jhipster/jhipster-experimental-microservices
+/ipeirotis/Get-Another-Label
+/jprante/elasticsearch-analysis-skos
+/P7h/StormTweetsSentimentAnalysis
+/jkennedy1980/Objective-C-CPD-Language
+/NashLegend/Auto-Hide-ListView
+/notzippy/JALOPY2-MAIN
+/agorava/agorava-core
+/metzlerd/mavuno

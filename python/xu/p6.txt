@@ -1,0 +1,10 @@
+/sungerk/DropDownLayout
+/robinxdroid/XDroidAnimation
+/Fruzenshtein/spr-mvc-hib
+/square/auto-value-redacted
+/OiteBoys/Earlybird
+/jenkinsci/docker-slaves-plugin
+/chenpengfei88/StatusLayout
+/Nipuream/NRecyclerView
+/rraval/pied-piper
+/szegedi/dynalink

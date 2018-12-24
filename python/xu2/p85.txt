@@ -1,0 +1,10 @@
+/twitter-university/yamba
+/Odoo-mobile/messaging
+/drallieiv/KinanCity
+/amazon-archives/kinesis-log4j-appender
+/rackerlabs/atom-hopper
+/ZhaoKaiQiang/ZListVIew
+/zimoguo/LeftRightScroll
+/nutzam/nutzwx
+/GoogleCloudPlatform/prediction-try-java-python
+/awslabs/amediamanager

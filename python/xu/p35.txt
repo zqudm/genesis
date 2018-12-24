@@ -1,0 +1,10 @@
+/openproject/world2
+/sing1ee/simhash-java
+/googlearchive/friendlyping
+/spotbugs/sonar-findbugs
+/aws-samples/amazon-cognito-developer-authentication-sample
+/hiwhitley/AmmountView
+/etsy/jenkins-master-project
+/QSFT/Mensa
+/cretz/gwt-node
+/ykameshrao/spring-mvc-angular-js-hibernate-bootstrap-java-single-page-jwt-auth-rest-api-webapp-framework

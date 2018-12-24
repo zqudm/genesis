@@ -1,0 +1,10 @@
+/kryptnostic/fhe-core
+/prezi/pride
+/princeparadoxes/RecyclerBindableAdapter
+/ddwhan0123/GitFlexibleListView
+/PrashamTrivedi/ProguardSnips
+/macdonst/TelephoneNumberPlugin
+/apache/shindig
+/Nitro888/NitroAction360
+/jexp/store-utils
+/crazyhitty/Rss-Manager

@@ -1,0 +1,10 @@
+/open-korean-text/elasticsearch-analysis-openkoreantext
+/flipkart-incubator/Lois
+/yusuke/sign-in-with-twitter
+/gregturn/spring-a-gram
+/juzna/intellij-neon
+/timurstrekalov/saga
+/sgaikar1/ValidationUtilsLibrary
+/puniverse/spaceships-demo
+/picocontainer/picocontainer
+/dboissier/nosql4idea

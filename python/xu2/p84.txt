@@ -1,0 +1,10 @@
+/jboss-switchyard/quickstarts
+/sgrebnov/cordova-plugin-background-download
+/xpoft/spring-vaadin
+/OpenSourcePhysics/tracker
+/celestial-winter/vics
+/pweingardt/mylyn-gitlab
+/valchkou/cassandra-driver-mapping
+/nabeelmukhtar/github-java-sdk
+/dumbledore/AlbiteREADER
+/viezel/NappDownloadManager

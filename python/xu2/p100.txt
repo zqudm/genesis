@@ -1,0 +1,10 @@
+/FasterXML/jackson-module-jaxb-annotations
+/ETENG-OSP/cordova-plugin-baidu-geolocation
+/ejeinc/RajawaliCardboardExample
+/hamnis/json-collection
+/hpehl/piriti
+/tlrx/transport-zeromq
+/jpatanooga/KnittingBoar
+/arisona/mpm
+/lovrop/topcoder-moj
+/RandomEtc/processing-gpx

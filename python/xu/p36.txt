@@ -1,0 +1,10 @@
+/dailycred/dynamonito
+/liferay/liferay-faces
+/rtyley/spongycastle-old
+/nbphpcouncil/nb-yii-plugin
+/blundell/WoodyFaceDetection
+/brianm/really-executable-jars-maven-plugin
+/Atmosphere/atmosphere-play
+/sanity/LastCalc
+/pauldeck/springmvc-2ed
+/zhichaoh/Coursera-Algorithms

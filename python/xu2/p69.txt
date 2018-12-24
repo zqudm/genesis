@@ -1,0 +1,10 @@
+/sergey-miryanov/ExtensionsPack
+/danielshaya/ByteWatcher
+/skroutz/elasticsearch-analysis-turkishstemmer
+/vokal/VolleyBall
+/jprante/elasticsearch-gatherer
+/cynnyx/auto-value-map
+/hraberg/enumerable
+/seph-lang/seph
+/googlearchive/MobileShoppingAssistant-sample
+/NLPchina/ansj_fast_lda

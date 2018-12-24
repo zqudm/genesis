@@ -1,0 +1,10 @@
+/saulmm/Avengers
+/facebookarchive/hadoop-20
+/LarsWerkman/QuickReturnListView
+/THEONE10211024/WaterDropListView
+/lawloretienne/TinderStack
+/yueban/DraggedViewPager
+/lawloretienne/DiscreteSlider
+/JakeWharton/SwipeToDismissNOA
+/tumblr/Bookends
+/pyricau/fragnums

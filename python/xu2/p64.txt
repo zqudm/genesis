@@ -1,0 +1,10 @@
+/maifeng/customer-review-crawler
+/LapisBlue/Pore
+/google/depan
+/xfmax/BaseDialog
+/leeadkins/elasticsearch-redis-river
+/Bamboy120315/bamboy
+/hmsonline/cassandra-indexing
+/trulia/thoth
+/shuixingge/WeEat
+/ypresto/TimberTreeUtils

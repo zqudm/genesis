@@ -1,0 +1,10 @@
+import logging
+
+def main():
+    logging.basicConfig(filename='myapp.log', level=logging.INFO)
+    logging.info('Started')
+    logging.info('Finished')
+    d= open('myapp.log').read();
+    print d;
+if __name__ == '__main__':
+           main()

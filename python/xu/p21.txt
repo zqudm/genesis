@@ -1,0 +1,10 @@
+/dianbaer/epay
+/s7/scale7-pelops
+/nimengbo/ListViewWithSofPpanel
+/hongyangAndroid/demo_rvadimage
+/MobClub/ThirdPartyLoginDemo
+/cenwenchu/beatles
+/xuningjack/horizontal_listview
+/tomasbjerre/pull-request-notifier-for-bitbucket
+/BoltsFramework/Bolts-Java
+/dengshiwei/SogoLoading

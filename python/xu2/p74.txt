@@ -1,0 +1,10 @@
+/EddyVerbruggen/Flashlight-PhoneGap-Plugin
+/geftimov/hadoop-map-reduce-patterns
+/dhale/jtk
+/tanelih/phonegap-bluetooth-plugin
+/dankurka/gwtphonegap
+/griddynamics/jagger
+/geniusgithub/SyncLoaderBitmapDemo
+/cakephp/cakephp-netbeans
+/bazaarvoice/dropwizard-configurable-assets-bundle
+/zscott/MultiBitExchange

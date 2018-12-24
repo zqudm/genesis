@@ -1,0 +1,10 @@
+/Samsung/KnowledgeSharingPlatform
+/holgerbrandl/themoviedbapi
+/JorgeCastilloPrz/Dagger2Scopes
+/myinnos/AwesomeImagePicker
+/mrmilu/WPEditText
+/ubiratansoares/rxassertions
+/wakatime/netbeans-wakatime
+/spring-projects/grails-data-mapping
+/Rogero0o/MissView
+/dongjunkun/RecyclerViewAccentFirst

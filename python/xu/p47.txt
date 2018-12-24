@@ -1,0 +1,10 @@
+/mbreese/couchdb4j
+/panacena/mengqu
+/samwangds/minions
+/antoniolg/LimeApp
+/sonatype/sonatype-tycho
+/joelind/zxing-iphone
+/lsjwzh/MaskEverywhere
+/florinpatrascu/micro
+/vert-x/vertx-gradle-template
+/leanstacks/skeleton-ws-spring-boot

@@ -1,0 +1,10 @@
+/perfume-dev/example-processing
+/nfscan/nfscan
+/bwaldvogel/mongo-java-server
+/palominolabs/metrics-guice
+/gilt/scala-1-day
+/twotoasters/watchface-template
+/ykabaran/NewsDigestSplash
+/momodae/RecyclerViewLibrary
+/TakeoffAndroid/MaterialPagerRecyclerGridView
+/evernote/fetch

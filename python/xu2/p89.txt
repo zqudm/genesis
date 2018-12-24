@@ -1,0 +1,10 @@
+/mariotaku/PatchLib
+/fabric8io/ipaas-quickstarts
+/g00glen00b/spring-ng-chat
+/airbrake/airbrake-java
+/sgothel/jogl-demos
+/krudolph/akkaflow
+/strazzere/dehoser
+/wzgiceman/Rxbus
+/pushbit/sprockets
+/jankronquist/rock-paper-scissors-in-java

@@ -1,0 +1,10 @@
+/MizzleDK/IntroActivity
+/xresco/Hexagon-Recyclerview
+/gerritjvv/pjson
+/mutualmobile/gradle-dexinfo-plugin
+/qiaodashaoye/SuperHttp
+/Stratio/stratio-cassandra-benchmark
+/sitepoint-editors/Design-Demo
+/marcojakob/javafx-ui-sandbox
+/migtavares/owmClient
+/winkstu/ABPlayer

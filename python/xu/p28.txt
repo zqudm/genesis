@@ -1,0 +1,10 @@
+/CitizensDev/Citizens
+/pudongqi/Design_Patterns
+/commonsguy/cwac-masterdetail
+/sebhoerl/Twig-netbeans
+/DragonetMC/Dragonet-Legacy
+/diy1/aspirator
+/kevinsawicki/gitective
+/yonik/java_util
+/mattsilber/sigcap
+/bosondata/elasticsearch-analysis-bosonnlp

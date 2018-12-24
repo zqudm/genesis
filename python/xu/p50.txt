@@ -1,0 +1,10 @@
+/eleventigers/rxeither
+/vert-x/vertx-gradle-template
+/leanstacks/skeleton-ws-spring-boot
+/jenkinsci/gradle-plugin
+/perfume-dev/example-processing
+/nfscan/nfscan
+/saltares/ashley-superjumper
+/bwaldvogel/mongo-java-server
+/palominolabs/metrics-guice
+/gilt/scala-1-day

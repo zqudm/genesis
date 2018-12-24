@@ -1,0 +1,10 @@
+/fortdam/t_rtf_camera
+/salk31/RedQueryBuilder
+/bduncavage/recyclerViewToTheRescue
+/pavsa/hackrf-spectrum-analyzer
+/pearson-enabling-technologies/elasticsearch-approx-plugin
+/platformlayer/platformlayer
+/100cm/thunder
+/soabase/soabase-halva
+/neel4software/SpringSecurityOAuth2
+/Cascading/Impatient
